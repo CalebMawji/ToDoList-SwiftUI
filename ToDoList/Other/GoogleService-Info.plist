@@ -3,32 +3,32 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>168850506884-4kjv1k8rbf6df7mh5nhcjv1gslg3lnnc.apps.googleusercontent.com</string>
+	<string>912587959018-et47bi9g3ajodr0p6cmra5v5f4gu8nuq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.168850506884-4kjv1k8rbf6df7mh5nhcjv1gslg3lnnc</string>
+	<string>com.googleusercontent.apps.912587959018-et47bi9g3ajodr0p6cmra5v5f4gu8nuq</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBB89Lh1WKYCNDnPOJwNOauxq5R3k7GyQQ</string>
+	<string>AIzaSyD91qqHfDgbLJ_i8ozJrzFchqb7lK1nVv4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>168850506884</string>
+	<string>912587959018</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>Caleb-Mawji.Tutoring-App</string>
+	<string>Caleb-Mawji.ToDoList</string>
 	<key>PROJECT_ID</key>
-	<string>tutoring-ea3b3</string>
+	<string>todolistswiftui-bcc1f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>tutoring-ea3b3.appspot.com</string>
+	<string>todolistswiftui-bcc1f.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:168850506884:ios:d3fa57b1968f3f3c2eaed1</string>
+	<string>1:912587959018:ios:f4dee9854c848af8b78593</string>
 </dict>
 </plist>
